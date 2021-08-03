@@ -2,5 +2,4 @@
 
     <h1>WP Hierarchy</h1>    
     
-</body>
-</html>
+<?php get_footer( ); ?>
